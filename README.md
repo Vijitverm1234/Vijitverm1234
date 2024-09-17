@@ -38,7 +38,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijitverm1234&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijitverm1234&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijitverm1234&theme=nord_bright&)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vijitverm1234&theme=vue&hide_border=true)
+
  <br/>
 </div> 
 <div align="center">
