@@ -40,7 +40,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijitverm1234&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijitverm1234&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijitverm1234&theme=nord_bright&)
-![Leetcode Stats](https://leetcard.jacoblin.cool/vijit1023)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vijitverm1234&theme=vue&hide_border=true)	
  <br/>
 </div> 
@@ -69,7 +68,6 @@
 <a href="https://x.com/verma_viji953"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
- 
 
 
 ---
