@@ -23,6 +23,13 @@
 	def Ambitions():
 		BecomeSoftwareEngineer()
 		FinishMyProjects()
+
+   def Achievements():
+		Technical_head():
+            Salaah_The_Mentor_Community
+            Environ_Club
+                  
+		
 	
  ```
 <center>
