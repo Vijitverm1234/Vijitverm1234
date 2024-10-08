@@ -6,7 +6,7 @@
   class WhoAmI:
     user = 'Vijit Verma'
 	current_edu = "Persuing BTech."
-    currently_learning = "CHART.js"
+    currently_learning = "MongoDB"
     fun_fact = "I hate Onion"
 	hobbies = [
 	      'Listening Music',
