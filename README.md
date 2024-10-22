@@ -40,7 +40,6 @@
 <div align="center">
 
 	
-
 	
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijitverm1234&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijitverm1234&theme=vue)
