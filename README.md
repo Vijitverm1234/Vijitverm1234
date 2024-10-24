@@ -7,7 +7,7 @@
     user = 'Vijit Verma'
 	current_edu = "Persuing BTech. in AIML dept"
     currently_learning = "Mongodb"
-    status: "Preparing for DBMS"
+    status: "Preparing for ASI and AI"
     fun_fact = "I hate Onion"
 	hobbies = [
 	      'Listening Music',
