@@ -45,7 +45,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijitverm1234&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijitverm1234&theme=nord_bright&)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vijitverm1234&theme=vue&hide_border=true)	
-[![Vijit Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijitverm1234&theme=vue)](https://github.com/Vijitverm1234/Dashboard_Chartjs)
  <br/>
 </div> 
 <div align="center">
