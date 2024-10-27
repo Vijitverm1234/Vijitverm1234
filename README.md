@@ -34,7 +34,7 @@
 	
  ```
 
-
+[![An image of @vijitverm1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijitverm1234)](https://holopin.io/@vijitverm1234)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/Vijitverm1234/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 <div align="center">
