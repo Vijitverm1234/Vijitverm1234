@@ -10,7 +10,7 @@
   class WhoAmI:
     user = 'Vijit Verma'
 	current_edu = "Persuing BTech. in AIML dept"
-    currently_learning = "Again preparing for St2 🥹"
+    currently_learning = "preparing for St2 🥹"
     status: "Feeling neutral"
     fun_fact = "I hate Onion"
 	hobbies = [
