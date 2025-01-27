@@ -12,7 +12,7 @@
   class WhoAmI:
     user = 'Vijit Verma'
 	current_edu = "Persuing BTech. in AIML dept"
-    currently_learning = "Feeling relaxed after getting my sem 4th result✌️"
+    currently_learning = "feeling sad after 5th sem exams"
     status: "Feeling neutral"
     fun_fact = "I hate Onion"
 	hobbies = [
