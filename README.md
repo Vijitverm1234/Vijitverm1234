@@ -39,6 +39,14 @@
 
 	
  ```
+<div class="social-group" align="center">
+<a href="[https://iamrajeev.me/](https://2004-vijitverma.netlify.app/home)" target="_blank"><img src="logos/Website.svg"></a>
+<a href="https://www.linkedin.com/in/vijit-verma-9b4b63259/" target="_blank"><img src="logos/LinkedIn.svg"></a>
+<a href="vijitverma1023@gmail.com" target="_blank"><img src="logos/Mail.svg"></a>
+<a href="https://twitter.com/vijit2004" target="_blank"><img src="logos/Twitter.svg"></a>
+
+</div>
+
 
 [![An image of @vijitverm1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijitverm1234)](https://holopin.io/@vijitverm1234)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/Vijitverm1234/master/profile-summary-card-output/solarized/0-profile-details.svg)
