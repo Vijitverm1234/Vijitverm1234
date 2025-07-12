@@ -13,7 +13,7 @@
     user = 'Vijit Verma'
 	current_edu = "Persuing BTech. in AIML dept"
     currently_learning = "Draged into black, and waiting of victory's light"
-    status: "Feeling Confused"
+    status: "Unemployement"
     fun_fact = "I hate Onion"
 	hobbies = [
 	      'Listening Music',
