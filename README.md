@@ -55,7 +55,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijitverm1234&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijitverm1234&theme=vue)
-[![Vijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijitverm1234)
+![](https://github-readme-stats.vercel.app/api?username=Vijitverm1234)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vijitverm1234&theme=vue&hide_border=true)	
 
 
