@@ -34,7 +34,7 @@
    def Achievements():
 		Technical_head():
             Salaah_The_Mentor_Community
-            Environ_Club
+            Environ_NSS_Club
                   
 
 	
@@ -44,6 +44,7 @@
 <a href="https://www.linkedin.com/in/vijit-verma-9b4b63259/" target="_blank"><img src="logos/LinkedIn.svg"></a>
 <a href="vijitverma1023@gmail.com" target="_blank"><img src="logos/Mail.svg"></a>
 <a href="https://twitter.com/vijit2004" target="_blank"><img src="logos/Twitter.svg"></a>
+
 
 </div>
 
